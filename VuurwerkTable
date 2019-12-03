@@ -1,0 +1,4 @@
+CREATE TABLE `vuurwerk` (
+  `Siervuurwerk` varchar(100) NOT NULL,
+  `Knalvuurwerk` varchar(100) NOT NULL,
+  `CompleetAssortiment` varchar(100) NOT NULL
